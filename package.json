@@ -1,0 +1,37 @@
+{
+  "name": "loveinjiit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^5.5.0",
+    "native-base": "^2.8.0",
+    "node-notifier": "^5.2.1",
+    "react": "16.5.0",
+    "react-native": "0.57.0",
+    "react-native-app-intro": "^1.1.5",
+    "react-native-app-intro-slider": "^1.0.1",
+    "react-native-awesome-alerts": "^1.1.1",
+    "react-native-elements": "^0.19.1",
+    "react-native-firebase": "^4.3.8",
+    "react-native-image-crop-picker": "^0.21.1",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-modal": "^6.5.0",
+    "react-native-progress": "^3.5.0",
+    "react-native-router-flux": "^4.0.1",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^2.14.2",
+    "rn-fetch-blob": "^0.10.13"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.45.3",
+    "react-test-renderer": "16.5.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
