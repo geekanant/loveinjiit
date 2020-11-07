@@ -12,6 +12,8 @@
     <br />
     <a href="https://www.youtube.com/watch?v=knpIQj43emUi" target="_blank">View Video Demo</a>
     ·
+    <a href="https://play.google.com/store/apps/details?id=com.loveinjiit" target="_blank">Play Store Link</a>
+    ·
     <a href="https://github.com/geekanant/loveinjiit/issues" target="_blank">Report Bug</a>
     ·
     <a href="https://github.com/geekanant/loveinjiit/issues" target="_blank">Request Feature</a>
